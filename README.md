@@ -12,11 +12,14 @@ I am still refining older repositories, improving documentation, and making proj
 
 If a project here stands out, it is usually a good reflection of the kinds of problems I most enjoy working on.
 
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3-blue)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6)
-![Java](https://img.shields.io/badge/Java-ED8B00)
-![C++](https://img.shields.io/badge/C++-00599C)
-![Swift](https://img.shields.io/badge/Swift-F54A2A)
-![SQL](https://img.shields.io/badge/SQL-4479A1)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-grey?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat)
+![Java](https://img.shields.io/badge/Java-grey?style=flat)
+![C++](https://img.shields.io/badge/C++-grey?style=flat)
+![Swift](https://img.shields.io/badge/Swift-grey?style=flat)
+![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=flat)
+![Go](https://img.shields.io/badge/Go-grey?style=flat)
+![Rust](https://img.shields.io/badge/Rust-grey?style=flat)
+![SQL](https://img.shields.io/badge/SQL-grey?style=flat)
+![HTML](https://img.shields.io/badge/HTML-grey?style=flat)
