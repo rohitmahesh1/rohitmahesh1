@@ -1,5 +1,6 @@
 # Hi, I'm Rohit
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)]
+[![Email](https://img.shields.io/badge/Email-rm4336%40columbia.edu-1a73e8?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=3b3b3b)](mailto:rm4336@columbia.edu)
+
 I build software at the intersection of machine learning, data-driven tools, and user-centered design.
 
 My projects often focus on turning complex technical workflows into systems that are easier to use, inspect, and learn from — whether that means analyzing biological data, building simulation platforms, or testing out a new ML architecture from a research paper I read.
