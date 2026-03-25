@@ -1,5 +1,5 @@
 # Hi, I'm Rohit
-
+[![Gmail Badge]]
 I build software at the intersection of machine learning, data-driven tools, and user-centered design.
 
 My projects often focus on turning complex technical workflows into systems that are easier to use, inspect, and learn from — whether that means analyzing biological data, building simulation platforms, or testing out a new ML architecture from a research paper I read.
