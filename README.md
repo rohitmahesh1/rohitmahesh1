@@ -13,7 +13,7 @@ I am still refining older repositories, improving documentation, and making proj
 
 
   
-**Languages**  
+
 ![Python](https://img.shields.io/badge/Python-2f2f2f?style=flat&logo=python&logoColor=3776AB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2f2f2f?style=flat&logo=typescript&logoColor=3178C6)
 ![Java](https://img.shields.io/badge/Java-2f2f2f?style=flat&logo=openjdk&logoColor=ED8B00)
