@@ -1,4 +1,4 @@
-# Hi, I'm Rohit
+# hi, i'm rohit 
 [![Email](https://img.shields.io/badge/Email-rm4336%40columbia.edu-1976d2?style=flat-square&logo=gmail&logoColor=f25f4c&labelColor=444444)](mailto:rm4336@columbia.edu)
 
 I build software at the intersection of machine learning, data-driven tools, and user-centered design.
